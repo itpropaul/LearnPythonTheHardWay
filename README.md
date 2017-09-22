@@ -1,0 +1,1 @@
+This Repo contains all of the exerises from "Learn Python The Hard Way", I am adding them as I go. One of particular interest though is ex36.py, it's a memory-game that I worked on for a while for exercise 36, but I'm also adding to it as I learn more.
