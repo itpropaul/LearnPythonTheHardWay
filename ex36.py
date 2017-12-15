@@ -1,6 +1,3 @@
-#Make sure to let Zed see this in the disqus comments to enjoy the "The Hard Way" humor
-#Keep a BACKUP COPY OF THIS IN DROPBOX!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-
 #modules
 from sys import exit
 import random
